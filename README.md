@@ -78,10 +78,7 @@ This project is for educational and research purposes.
 
 ---
 
-**Explore the Olympics like never
-
-# olympics-data-analysis-web-app
-A Streamlit web application for the analysis of olympics dataset
+**Explore the Olympics like never before !!!**
 
 
 
