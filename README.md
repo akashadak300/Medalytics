@@ -85,4 +85,4 @@ This project is for educational and research purposes.
 
 
 
-Live Demo: https://oda-campusx.herokuapp.com/
+Live Demo: https://medalytics.onrender.com/
